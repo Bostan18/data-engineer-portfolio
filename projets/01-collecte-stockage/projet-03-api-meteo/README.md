@@ -38,4 +38,4 @@ Python 3.12, SQLite3, `requests`
 
 - [x] Code fonctionnel et teste
 - [x] Documentation completee dans Notion
-- [ ] Commit pousse sur GitHub
+- [x] Commit pousse sur GitHub
