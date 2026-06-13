@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupery",
+        "year": 1943,
+        "category": "Conte"
+    },
+    {
+        "title": "Fondation",
+        "author": "Isaac Asimov",
+        "year": 1951,
+        "category": "Science-Fiction"
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "year": 1965,
+        "category": "Science-Fiction"
+    }
+]

@@ -1,0 +1,39 @@
+# Fichiers sensibles
+.env
+*.env
+credentials.json
+service-account.json
+
+# Donnees volumineuses
+*.parquet
+*.avro
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Bases de donnees
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers temporaires
+*.swp
+*.swo
+*~
