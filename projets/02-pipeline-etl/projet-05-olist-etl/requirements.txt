@@ -1,0 +1,4 @@
+kagglehub==1.0.2
+matplotlib==3.11.0
+pandas==3.0.3
+sqlalchemy==2.0.43
